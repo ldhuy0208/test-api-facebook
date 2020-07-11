@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-api-facebook/static/css/main.5f361e03.chunk.css",
+    "main.js": "/test-api-facebook/static/js/main.fb644d71.chunk.js",
+    "main.js.map": "/test-api-facebook/static/js/main.fb644d71.chunk.js.map",
+    "runtime-main.js": "/test-api-facebook/static/js/runtime-main.c5d086fe.js",
+    "runtime-main.js.map": "/test-api-facebook/static/js/runtime-main.c5d086fe.js.map",
+    "static/js/2.225d1f3c.chunk.js": "/test-api-facebook/static/js/2.225d1f3c.chunk.js",
+    "static/js/2.225d1f3c.chunk.js.map": "/test-api-facebook/static/js/2.225d1f3c.chunk.js.map",
+    "index.html": "/test-api-facebook/index.html",
+    "precache-manifest.95eea09125e857355fb9ef6eb7440b21.js": "/test-api-facebook/precache-manifest.95eea09125e857355fb9ef6eb7440b21.js",
+    "service-worker.js": "/test-api-facebook/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/test-api-facebook/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.225d1f3c.chunk.js.LICENSE.txt": "/test-api-facebook/static/js/2.225d1f3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5d086fe.js",
+    "static/js/2.225d1f3c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fb644d71.chunk.js"
+  ]
+}
